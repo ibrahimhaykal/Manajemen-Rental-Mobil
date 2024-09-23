@@ -1,6 +1,6 @@
-# Aplikasi Penyewaan Mobil - Tes Kerja Jasamedika
+# Aplikasi Penyewaan Mobil
 
-Aplikasi penyewaan mobil adalah proyek yang telah saya selesaikan untuk tes kerja di Jasamedika. Proyek ini menggunakan Laravel 9 sebagai framework utama dengan library Yajra Datatables dan Bootstrap untuk tampilan antarmuka, serta MySQL sebagai basis data.
+Aplikasi penyewaan mobil, Proyek ini menggunakan Laravel 9 sebagai framework utama dengan library Yajra Datatables dan Bootstrap untuk tampilan antarmuka, serta MySQL sebagai basis data.
 
 ## Deskripsi
 
